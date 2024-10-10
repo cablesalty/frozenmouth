@@ -1,5 +1,6 @@
 # Frozen Mouth
 A chrome extension that mutes the audio of KSI's "Frozen Mouth" song on YouTube.
+![Cover image](cover.png)
 
 # Features
 - Uses new Manifest v3 ensuring compatibility with newer versions of chrome
