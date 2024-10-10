@@ -1,5 +1,5 @@
 # Frozen Mouth
-A chrome extension that mutes the audio of KSI's "Frozen Mouth" song on YouTube.
+A chrome extension that mutes the audio of KSI's "Thick Of It" song on YouTube.
 
 # Features
 - Uses new Manifest v3 ensuring compatibility with newer versions of chrome
