@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "Frozen Mouth",
+    "version": "1.0",
+    "description": "Mutes the audio of KSI's \"Thick Of It\" song",
+    "icons": {
+        "16": "icon.png",
+        "32": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+    },
+    "permissions": [
+      "activeTab"
+    ],
+    "content_scripts": [
+      {
+        "matches": ["https://www.youtube.com/watch?v=At8v_Yc044Y*"],
+        "js": ["content.js"]
+      }
+    ]
+  }
+  
