@@ -12,7 +12,7 @@ A chrome extension that mutes the audio of KSI's "Frozen Mouth" song on YouTube.
 **This extension is not published on the chrome webstore yet, because it is pending review. You can install it manually by following the instructions below, or wait a few weeks to be published.**
 
 ### Manual installation
-1. Download the latest unpacked source (.zip)
+1. Download the [latest release (.zip source code)](https://github.com/cablesalty/frozenmouth/releases/)
 2. Go to [chrome://extensions](chrome://extensions)
 3. Click the "Developer Mode" toggle in the top right corner
 4. Click "Load Unpacked"
