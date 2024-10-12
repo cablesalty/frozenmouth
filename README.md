@@ -1,6 +1,9 @@
 # Frozen Mouth
 A chrome extension that mutes the audio of KSI's "Thick Of It" song on YouTube.
 
+# Warning! Doesn't work on all systems!
+While it *works on my machine*, I tested some setups where youtube's localStorage looks completely different and my code doesn't work there. I'm working on fixing the issue.
+
 # Features
 - Uses new Manifest v3 ensuring compatibility with newer versions of chrome
 - Activates automatically and only on KSI's song
